@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.0",
+    "message": "优化播放体验"
+  },
+  "search_hint": "搜索书籍、主播、作者",
+  "review": 0,
+  "limited": "4000",
+  "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
+  "vip": {
+    "title": "升级专业版后，您将享有以下权利：",
+    "title_vip": "您享有以下权利：",
+    "items": [
+      {
+        "icon": "ts_pro_music.png",
+        "title": "聆听所有书单",
+        "subtitle": "在线聆听超过10000本的高音质书本"
+      },
+      {
+        "icon": "ts_pro_download.png",
+        "title": "下载音乐",
+        "subtitle": "缓存音乐到本地，随时随地离线聆听"
+      },
+      {
+        "icon": "ts_pro_ad.png",
+        "title": "无广告",
+        "subtitle": "免除广告打扰，一个纯粹的音乐app"
+      }
+    ],
+    "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
+  },
+  "audio_extensions": [
+    "mp3",
+    "m4a"
+  ]
+}
