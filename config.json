@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update": {
     "version": "1.0",
     "message": "优化播放体验"
   },
   "home_url": "http://m.tingshubao.com",
   "search_hint": "搜索书籍、主播、作者",
-  "review": 1,
+  "review": 0,
   "limited": "40000",
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
