@@ -4,9 +4,10 @@
     "version": "1.0",
     "message": "优化播放体验"
   },
+  "home_url": "http://m.tingshubao.com",
   "search_hint": "搜索书籍、主播、作者",
-  "review": 0,
-  "limited": "4000",
+  "review": 1,
+  "limited": "40000",
   "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
@@ -14,24 +15,126 @@
     "items": [
       {
         "icon": "ts_pro_music.png",
-        "title": "聆听所有书单",
-        "subtitle": "在线聆听超过10000本的高音质书本"
+        "title": "聆听所有有声图书",
+        "subtitle": "在线聆听超过10000本的高音质有声图书"
       },
       {
         "icon": "ts_pro_download.png",
-        "title": "下载音乐",
-        "subtitle": "缓存音乐到本地，随时随地离线聆听"
+        "title": "下载有声图书",
+        "subtitle": "缓存有声图书到本地，随时随地离线聆听"
       },
       {
         "icon": "ts_pro_ad.png",
         "title": "无广告",
-        "subtitle": "免除广告打扰，一个纯粹的音乐app"
+        "subtitle": "免除广告打扰"
       }
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "audio_extensions": [
-    "mp3",
+    "mp3?",
     "m4a"
+  ],
+  "ranks": [
+    {
+      "title": "热门排行榜",
+      "href": "/top.html"
+    },
+    {
+      "title": "全本完结",
+      "href": "/quanben.html"
+    },
+    {
+      "title": "热门连载",
+      "href": "/lianzai.html"
+    },
+    {
+      "title": "最新上架",
+      "href": "/xinshu.html"
+    }
+  ],
+  "categories": [
+    {
+      "title": "有声小说",
+      "filters": [
+        {
+          "title": "全部",
+          "href": "/list/1.html"
+        },
+        {
+          "title": "玄幻武侠",
+          "href": "/list/27.html"
+        },
+        {
+          "title": "都市小说",
+          "href": "/list/28.html"
+        },
+        {
+          "title": "言情小说",
+          "href": "/list/29.html"
+        },
+        {
+          "title": "惊悚悬疑",
+          "href": "/list/31.html"
+        },
+        {
+          "title": "历史军事",
+          "href": "/list/32.html"
+        },
+        {
+          "title": "网游科幻",
+          "href": "/list/33.html"
+        }
+      ]
+    },
+    {
+      "title": "评书",
+      "filters": [
+        {
+          "title": "全部",
+          "href": "/list/2.html"
+        },
+        {
+          "title": "单田芳",
+          "href": "/list/34.html"
+        },
+        {
+          "title": "袁阔成",
+          "href": "/list/35.html"
+        },
+        {
+          "title": "连丽如",
+          "href": "/list/36.html"
+        },
+        {
+          "title": "刘兰芳",
+          "href": "/list/37.html"
+        },
+        {
+          "title": "田连元",
+          "href": "/list/40.html"
+        },
+        {
+          "title": "张少佐",
+          "href": "/list/38.html"
+        },
+        {
+          "title": "王玥波",
+          "href": "/list/39.html"
+        },
+        {
+          "title": "粤语",
+          "href": "/list/41.html"
+        },
+        {
+          "title": "陈丽君",
+          "href": "/list/44.html"
+        },
+        {
+          "title": "孙一",
+          "href": "/list/45.html"
+        }
+      ]
+    }
   ]
 }
