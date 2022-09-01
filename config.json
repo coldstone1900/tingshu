@@ -1,13 +1,22 @@
 {
-  "version": "1.8.2",
+  "version": "1.9.1",
   "update": {
-    "version": "1.8",
+    "version": "1.9.0",
     "message": "优化播放体验"
   },
   "home_url": "http://m.tingshubao.com",
   "search_hint": "搜索书籍、主播、作者",
   "review": 0,
   "limited": "40000",
+  "free_count": 6,
+  "appLovin": {
+    "open": 1,
+    "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
+    "home": "d10923b1939c62a7",
+    "detail": "92036efb1d6da032",
+    "interstitial": "d3467928ee27b2da",
+    "reward": "10e3bad1ba83f3e4"
+  },
   "vipbg": "https://coldstone1900.github.io/tingshu/bg.jpg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
