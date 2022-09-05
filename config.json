@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
+  "version": "2.0.1",
   "update": {
-    "version": "1.9.0",
+    "version": "2.0.0",
     "message": "优化播放体验"
   },
   "home_url": "http://m.tingshubao.com",
